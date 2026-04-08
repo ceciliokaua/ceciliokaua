@@ -24,10 +24,9 @@ Me tornar um desenvolvedor **Full Stack**, criando experiências que facilitem a
 ### 📊 Minhas Estatísticas
 *Onde o aprendizado se transforma em commits:*
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ceciliokaua&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceciliokaua&layout=compact&theme=radical" alt="Linguagens mais usadas" height="170" />
-</p>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ceciliokaua&show_icons=true&theme=radical&cache_seconds=86400" height="170" />
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ceciliokaua&layout=compact&theme=radical&cache_seconds=86400" height="170" />
 
 ---
 
