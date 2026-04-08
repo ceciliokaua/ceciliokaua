@@ -26,10 +26,9 @@ Aqui estão as tecnologias que eu uso para dar vida às minhas ideias:
 ### 📊 Minhas Estatísticas
 *Onde o aprendizado se transforma em commits:*
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ceciliokaua&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceciliokaua&layout=compact&theme=radical" alt="Linguagens mais usadas" height="180" />
-</p>
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ceciliokaua&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ceciliokaua&layout=compact&theme=radical)
 
 ---
 
